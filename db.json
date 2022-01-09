@@ -1,15 +1,6 @@
-[
-    {
-      "id": 1,
-      "email": "teste1@email.com",
-      "name": "Testador Um"
-    
-    },
-    {
-      "id": 2,
-      "email": "teste2@email.com",
-      "name": "Testador Dois"
-   
-    }
-    
+{
+  "users": [
+     { "id": 1, "nome": "Alex" },
+     { "id": 2, "nome": "teste" }
   ]
+}
